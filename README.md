@@ -343,40 +343,128 @@ MISSION: BUILD SOMETHING NEW
 
 # 🧬 MY DEVELOPMENT CYCLE
 
-```text
-                ┌──────────────────┐
-                │     💡 IDEA      │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │   🧠 ANALYZE     │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │   🏗️ DESIGN      │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │   💻 DEVELOP     │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │    🧪 TEST       │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │   🐛 DEBUG       │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │   🚀 DEPLOY      │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │   🔁 IMPROVE     │
-                └──────────────────┘
-```
+<h2>🧬 MY DEVELOPMENT CYCLE</h2>
 
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="200">
+<br>
+<h2>💡</h2>
+<h3>IDEA</h3>
+<p>Define the problem<br>and the goal.</p>
+<br>
+</td>
+
+<td align="center" width="40">
+<h2>→</h2>
+</td>
+
+<td align="center" width="200">
+<br>
+<h2>🧠</h2>
+<h3>ANALYZE</h3>
+<p>Understand requirements<br>and constraints.</p>
+<br>
+</td>
+
+<td align="center" width="40">
+<h2>→</h2>
+</td>
+
+<td align="center" width="200">
+<br>
+<h2>🏗️</h2>
+<h3>DESIGN</h3>
+<p>Plan architecture,<br>APIs and database.</p>
+<br>
+</td>
+
+<td align="center" width="40">
+<h2>→</h2>
+</td>
+
+<td align="center" width="200">
+<br>
+<h2>💻</h2>
+<h3>DEVELOP</h3>
+<p>Write clean and<br>maintainable code.</p>
+<br>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="13" align="center">
+<h2>⬇️</h2>
+</td>
+</tr>
+
+<tr>
+
+<td align="center" width="200">
+<br>
+<h2>🔁</h2>
+<h3>IMPROVE</h3>
+<p>Optimize, refactor<br>and enhance.</p>
+<br>
+</td>
+
+<td align="center" width="40">
+<h2>←</h2>
+</td>
+
+<td align="center" width="200">
+<br>
+<h2>🚀</h2>
+<h3>DEPLOY</h3>
+<p>Release the system<br>to production.</p>
+<br>
+</td>
+
+<td align="center" width="40">
+<h2>←</h2>
+</td>
+
+<td align="center" width="200">
+<br>
+<h2>🐛</h2>
+<h3>DEBUG</h3>
+<p>Find issues,<br>fix and stabilize.</p>
+<br>
+</td>
+
+<td align="center" width="40">
+<h2>←</h2>
+</td>
+
+<td align="center" width="200">
+<br>
+<h2>🧪</h2>
+<h3>TEST</h3>
+<p>Validate features,<br>APIs and edge cases.</p>
+<br>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/💡_THINK-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏗️_BUILD-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧪_VALIDATE-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_SHIP-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔁_IMPROVE-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+
+</div>
 ---
 
 # 🖥️ TERMINAL
