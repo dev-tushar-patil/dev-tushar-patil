@@ -1,500 +1,529 @@
-<!-- ====================================================== -->
+<!-- ========================================================= -->
 
-<!--                    HERO SECTION                        -->
+<!--                  DEVELOPER CORE                           -->
 
-<!-- ====================================================== -->
+<!-- ========================================================= -->
 
-<h1 align="center">
-  🤖 Hi 👋, I'm Tushar Patil
-</h1>
-
-<h3 align="center">
-  🚀 Full Stack Java Developer | Backend Engineer | Problem Solver
-</h3>
+<h2 align="center">⚡ DEVELOPER CORE</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+React+Developer;Designing+Scalable+Backend+Systems;Exploring+System+Design+%26+AI;Building+the+Future%2C+One+Commit+at+a+Time+🤖;Code+%7C+Build+%7C+Debug+%7C+Repeat+🚀" />
+  <i>Initializing TUSHAR_OS v3.0...</i>
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-tushar-patil&label=PROFILE%20VIEWS&color=00C2FF&style=for-the-badge" />
+<div align="center">
+
+<div style="border: 1px solid #00D9FF; border-radius: 14px; padding: 22px; margin: 12px;">
+
+<h3>🤖 TUSHAR_OS v3.0</h3>
+
+<p>
+<b>● SYSTEM STATUS:</b> 🟢 ONLINE
 </p>
+
+<p>
+<b>PRIMARY ENGINE:</b><br>
+☕ Java + Spring Boot
+</p>
+
+<p>
+<b>ARCHITECTURE MODE:</b><br>
+⚙️ REST APIs • Microservices • Scalable Systems
+</p>
+
+<p>
+<b>CURRENT OPERATION:</b><br>
+🚀 BUILDING • LEARNING • SOLVING
+</p>
+
+</div>
 
 <br>
 
-<!-- ====================================================== -->
+<div style="border: 1px solid #7C3AED; border-radius: 14px; padding: 22px; margin: 12px;">
 
-<!--                    ABOUT ME                            -->
+<h3>🧠 CURRENT MISSION</h3>
 
-<!-- ====================================================== -->
+<p>
+🔹 Master <b>System Design</b>
+</p>
 
-## 🤖 SYSTEM.INIT — About Me
+<p>
+🔹 Strengthen <b>DSA & Problem Solving</b>
+</p>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                 DEVELOPER PROFILE                   ║
-╠══════════════════════════════════════════════════════╣
-║  Name       : Tushar Patil                           ║
-║  Role       : Full Stack Java Developer              ║
-║  Focus      : Backend Engineering                    ║
-║  Runtime    : Java + Spring Boot                    ║
-║  Frontend   : React.js                              ║
-║  Database   : MySQL + MongoDB                       ║
-║  Learning   : System Design + AI                    ║
-║  Status     : BUILDING... 🚀                        ║
-╚══════════════════════════════════════════════════════╝
-```
+<p>
+🔹 Explore <b>Artificial Intelligence</b>
+</p>
 
-* 🔭 Currently working on **Secret Project 3.0**
-* 🌱 Currently learning **System Design, AI, VR & AR**
-* 💻 Building applications with **Java, Spring Boot & React**
-* ⚙️ Interested in **Microservices, REST APIs & scalable systems**
-* 🧠 Practicing **DSA & problem solving**
-* 💬 Ask me about **Java, Spring Boot, REST APIs & Full Stack Development**
-* 📫 **[devtusharpatil.tech@gmail.com](mailto:devtusharpatil.tech@gmail.com)**
-* ⚡ Fun fact: **Java runs on my machine, and so does my life! ☕**
+<p>
+🔹 Experiment with <b>VR / AR</b>
+</p>
+
+<p>
+🔹 Build <b>Production-Ready Applications</b>
+</p>
+
+</div>
+
+</div>
 
 <br>
 
-<!-- ====================================================== -->
+<!-- ========================================================= -->
 
-<!--                 CONNECT WITH ME                        -->
+<!--                    DEVELOPER PROFILE                      -->
 
-<!-- ====================================================== -->
+<!-- ========================================================= -->
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
-
-<p align="center">
-  <i>Let's build something interesting together.</i>
-</p>
+<h2 align="center">👨‍💻 DEVELOPER PROFILE</h2>
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/dev-tushar-patil">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div style="border: 1px solid #00D9FF; border-radius: 14px; padding: 25px; max-width: 850px;">
 
-  
-
-<a href="https://github.com/dev-tushar-patil">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-  
-
-<a href="https://medium.com/@tusharispatil27">
-  <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="mailto:devtusharpatil.tech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-  
-
-<a href="https://auth.geeksforgeeks.org/user/dev-tushar-patil">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-</p>
-
-<br>
-<br>
-
-<!-- ====================================================== -->
-
-<!--                    TECH STACK                          -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">⚙️ TECHNOLOGY MATRIX</h2>
-
-<h3 align="center">☕ Backend Engineering</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
-
-</p>
-
-<p align="center">
-Java • Spring Boot • REST APIs • Microservices • MySQL • MongoDB
-</p>
+<h3>🛰️ PROFILE DATA</h3>
 
 <br>
 
-<h3 align="center">⚛️ Frontend Engineering</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>
-
+<p>
+<b>👤 NAME</b><br>
+Tushar Patil
 </p>
 
-<p align="center">
+<p>
+<b>💼 ROLE</b><br>
+Full Stack Java Developer
+</p>
+
+<p>
+<b>☕ BACKEND</b><br>
+Java • Spring Boot • REST APIs • Microservices
+</p>
+
+<p>
+<b>⚛️ FRONTEND</b><br>
 React.js • JavaScript • HTML5 • CSS3
 </p>
 
-<br>
+<p>
+<b>🗄️ DATABASE</b><br>
+MySQL • MongoDB
+</p>
 
-<h3 align="center">☁️ Cloud & Developer Tools</h3>
+<p>
+<b>☁️ CLOUD</b><br>
+AWS
+</p>
+
+<p>
+<b>🧠 EXPLORING</b><br>
+System Design • AI • VR • AR
+</p>
+
+<p>
+<b>🟢 CURRENT STATUS</b><br>
+BUILDING & LEARNING
+</p>
+
+</div>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+
+<!--                 CONNECT WITH ME                           -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🌐 CONNECT TO MY NETWORK</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55"/>
-
-  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="55" height="55"/>
-
+  <i>Open a communication channel.</i>
 </p>
 
 <br>
 
-<!-- ====================================================== -->
+<div align="center">
 
-<!--                 GITHUB TROPHIES                        -->
+<div style="border: 1px solid #00D9FF; border-radius: 14px; padding: 25px;">
 
-<!-- ====================================================== -->
-
-<h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-tushar-patil&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1" />
+<p>
+<b>🔗 PROFESSIONAL NETWORK</b>
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-
-<!--                 GITHUB ANALYTICS                       -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=dev-tushar-patil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-height="180"
-/>
-
-   
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tushar-patil&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                 STREAK                                 -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=dev-tushar-patil&theme=tokyonight&hide_border=true&border_radius=10"
-alt="GitHub Contribution Streak"
-/>
-
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--             CONTRIBUTION ACTIVITY                     -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
-
-<p align="center">
-  <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dev-tushar-patil&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff&area=true&hide_border=true"
-  width="100%"
-  />
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                 PROFILE SUMMARY                        -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">📡 DEVELOPER TELEMETRY</h2>
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-tushar-patil&theme=tokyonight"
-width="95%"
-/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-tushar-patil&theme=tokyonight"
-height="180"
-/>
-
-  
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-tushar-patil&theme=tokyonight"
-height="180"
-/>
-
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                    LEETCODE                            -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">🧠 DSA / LEETCODE JOURNEY</h2>
-
-<p align="center">
-  <i>Training the algorithmic brain...</i>
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-
-<img
-src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"
-alt="LeetCode Statistics"
-/>
-
+<a href="https://linkedin.com/in/dev-tushar-patil">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+ 
 
-<br>
+<a href="https://github.com/dev-tushar-patil">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<!-- ====================================================== -->
+<br><br>
 
-<!--                 FEATURED PROJECTS                       -->
+<a href="https://medium.com/@tusharispatil27">
+<img src="https://img.shields.io/badge/MEDIUM-ARTICLES-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-<!-- ====================================================== -->
+ 
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<a href="https://auth.geeksforgeeks.org/user/dev-tushar-patil">
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-<br>
+<br><br>
 
-<table align="center">
+<a href="mailto:devtusharpatil.tech@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<tr>
+</div>
 
-<td width="50%" align="center">
+</div>
 
-### 💎 Jewello
+<br><br>
 
-Jewellery business management platform featuring:
+<!-- ========================================================= -->
 
-**Monthly Saving Schemes**
-**Installment Management**
-**Payment Gateway Integration**
-**Customer Management**
+<!--                 TECHNOLOGY MATRIX                         -->
 
-`Java` `Spring Boot` `MySQL` `REST API`
+<!-- ========================================================= -->
 
-</td>
-
-<td width="50%" align="center">
-
-### 🛒 ACME POS
-
-Point of Sale ecosystem for jewellery businesses.
-
-**Billing**
-**Sale & Return**
-**Saving Schemes**
-**ERP Synchronization**
-
-`Flutter` `Java` `Spring Boot` `MySQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### ☁️ PADM
-
-Cloud-based jewellery business management platform.
-
-**React Frontend**
-**Spring Boot Microservices**
-**AWS Infrastructure**
-**MySQL**
-
-`React` `Spring Boot` `AWS` `MySQL`
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 Secret Project 3.0
-
-> CLASSIFIED
-
-Currently under development.
-
-**Status: BUILDING... 🚀**
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                 DEVELOPMENT MODE                       -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">🤖 DEVELOPMENT MODE</h2>
+<h2 align="center">⚙️ TECHNOLOGY MATRIX</h2>
 
 <p align="center">
-
-```text
-          ┌──────────────────────────────┐
-          │       TUSHAR_OS v3.0         │
-          ├──────────────────────────────┤
-          │                              │
-          │  [✓] Learn                   │
-          │  [✓] Design                  │
-          │  [✓] Code                   │
-          │  [✓] Test                   │
-          │  [✓] Debug                  │
-          │  [✓] Deploy                 │
-          │  [→] Repeat                 │
-          │                              │
-          │  SYSTEM STATUS: ONLINE 🟢   │
-          └──────────────────────────────┘
-```
-
+  <i>My current engineering arsenal.</i>
 </p>
 
 <br>
 
-<!-- ====================================================== -->
+<div align="center">
 
-<!--                 DEVELOPER PHILOSOPHY                   -->
+<div style="border: 1px solid #00D9FF; border-radius: 14px; padding: 25px; margin: 12px;">
 
-<!-- ====================================================== -->
+<h3>☕ BACKEND ENGINEERING</h3>
 
-<h2 align="center">💡 DEVELOPER PHILOSOPHY</h2>
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs" />
+
+<br><br>
+
+<code>Java</code>
+  <code>Spring Boot</code>
+  <code>.NET</code>
+  <code>C#</code>
+
+</div>
+
+<br>
+
+<div style="border: 1px solid #7C3AED; border-radius: 14px; padding: 25px; margin: 12px;">
+
+<h3>⚛️ FRONTEND ENGINEERING</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,typescript" />
+
+<br><br>
+
+<code>React.js</code>
+  <code>JavaScript</code>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>TypeScript</code>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<div style="border: 1px solid #00FF9C; border-radius: 14px; padding: 25px; margin: 12px;">
+
+<h3>🗄️ DATA & STORAGE</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+<code>MySQL</code>
+  <code>MongoDB</code>
+
+</div>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<div style="border: 1px solid #FFB000; border-radius: 14px; padding: 25px; margin: 12px;">
+
+<h3>☁️ CLOUD & DEVOPS</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+<br><br>
+
+<code>AWS</code>
+  <code>Docker</code>
+  <code>Git</code>
+  <code>GitHub</code>
+
+</div>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<div style="border: 1px solid #FF4D8D; border-radius: 14px; padding: 25px; margin: 12px;">
+
+<h3>🛠️ DEVELOPMENT TOOLS</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,figma,flutter" />
+
+<br><br>
+
+<code>Postman</code>
+  <code>VS Code</code>
+  <code>Visual Studio</code>
+  <code>Figma</code>
+  <code>Flutter</code>
+
+</div>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+
+<!--                 ENGINEERING INTERESTS                     -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🧠 ENGINEERING INTERESTS</h2>
+
+<br>
+
+<div align="center">
+
+<div style="border: 1px solid #00D9FF; border-radius: 14px; padding: 25px;">
+
+<p>
+
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-00D9FF?style=for-the-badge&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MICROSERVICES-7C3AED?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DSA-00FF9C?style=for-the-badge&logoColor=black"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/AI-FFB000?style=for-the-badge&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CLOUD-00D9FF?style=for-the-badge&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SCALABLE%20SYSTEMS-7C3AED?style=for-the-badge&logoColor=white"/>
+
+</p>
+
+</div>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+
+<!--                    PROJECTS                               -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 PROJECT COMMAND CENTER</h2>
 
 <p align="center">
-
-<b>
-"Don't just write code. Build systems that solve real problems."
-</b>
-
+  <i>Selected systems currently deployed, maintained or under development.</i>
 </p>
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-/>
+<div style="border: 1px solid #00D9FF; border-radius: 14px; padding: 25px; margin: 12px;">
 
+<h3>💎 JEWELLO</h3>
+
+<p>
+A jewellery business management platform designed to manage
+customers, saving schemes, installments and payments.
 </p>
+
+<p>
+<code>Java</code>
+<code>Spring Boot</code>
+<code>MySQL</code>
+<code>REST API</code>
+</p>
+
+</div>
 
 <br>
 
-<!-- ====================================================== -->
+<div style="border: 1px solid #7C3AED; border-radius: 14px; padding: 25px; margin: 12px;">
 
-<!--                    FOOTER                              -->
+<h3>🛒 ACME POS</h3>
 
-<!-- ====================================================== -->
+<p>
+Point-of-Sale ecosystem designed for jewellery businesses,
+including billing, schemes and ERP synchronization.
+</p>
 
-<p align="center">
+<p>
+<code>Flutter</code>
+<code>Java</code>
+<code>Spring Boot</code>
+<code>MySQL</code>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=120&section=footer"/>
+</div>
+
+<br>
+
+<div style="border: 1px solid #00FF9C; border-radius: 14px; padding: 25px; margin: 12px;">
+
+<h3>☁️ PADM</h3>
+
+<p>
+Cloud-based business management platform focused on
+modern application architecture and scalable services.
+</p>
+
+<p>
+<code>React</code>
+<code>Spring Boot</code>
+<code>AWS</code>
+<code>MySQL</code>
+</p>
+
+</div>
+
+<br>
+
+<div style="border: 1px solid #FFB000; border-radius: 14px; padding: 25px; margin: 12px;">
+
+<h3>🤖 SECRET PROJECT 3.0</h3>
+
+<p>
+<b>CLASSIFIED SYSTEM</b>
+</p>
+
+<p>
+Currently under development...
+</p>
+
+<p>
+🟢 <code>STATUS: BUILDING</code>
+</p>
+
+</div>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+
+<!--                 DEVELOPMENT LOOP                          -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🔄 DEVELOPMENT LOOP</h2>
+
+<br>
+
+<div align="center">
+
+<div style="border: 1px solid #00D9FF; border-radius: 14px; padding: 25px;">
+
+<p>
+
+<b>01</b> → LEARN
+
+  ➜  
+
+<b>02</b> → DESIGN
+
+  ➜  
+
+<b>03</b> → CODE
 
 </p>
 
-<h3 align="center">
-  🤖 BUILD • LEARN • DEBUG • DEPLOY • REPEAT 🚀
+<p>
+
+<b>04</b> → TEST
+
+  ➜  
+
+<b>05</b> → DEBUG
+
+  ➜  
+
+<b>06</b> → DEPLOY
+
+</p>
+
+<p>
+
+<b>07</b> → 🚀 REPEAT
+
+</p>
+
+</div>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+
+<!--                     FOOTER                                -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7C3AED&height=120&section=footer"/>
+
+<h3>
+🤖 BUILD • LEARN • DEBUG • DEPLOY • REPEAT
 </h3>
 
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+<p>
+⭐ <b>Thanks for visiting my GitHub profile!</b>
 </p>
+
+</div>
