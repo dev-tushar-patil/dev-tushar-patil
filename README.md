@@ -14,29 +14,48 @@
 
 ---
 
+# 🧬 MY DEVELOPMENT CYCLE
+
 <div align="center">
 
+<table>
+<tr>
+<td align="center">💡<br><b>IDEA</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>ANALYZE</b></td>
+<td>→</td>
+<td align="center">🏗️<br><b>DESIGN</b></td>
+<td>→</td>
+<td align="center">💻<br><b>DEVELOP</b></td>
+</tr>
+<tr>
+<td colspan="7" align="center">⬇️</td>
+</tr>
+<tr>
+<td align="center">🔁<br><b>IMPROVE</b></td>
+<td>←</td>
+<td align="center">🚀<br><b>DEPLOY</b></td>
+<td>←</td>
+<td align="center">🐛<br><b>DEBUG</b></td>
+<td>←</td>
+<td align="center">🧪<br><b>TEST</b></td>
+</tr>
+</table>
+
+<br>
+
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                    🤖 DEVELOPER TERMINAL                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  USER        : Tushar Patil                                     ║
-║  ROLE        : Full Stack Java Developer                         ║
-║  CORE        : Java • Spring Boot • Microservices                ║
-║  FRONTEND    : React.js • JavaScript • HTML • CSS                ║
-║  DATABASE    : MySQL • MongoDB                                   ║
-║  CLOUD       : AWS                                               ║
-║  STATUS      : ONLINE ●                                          ║
-║                                                                  ║
-║  > Building ideas into code...                                   ║
-║  > Turning code into solutions...                                ║
-║  > Engineering the next system...                               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+IDEA → ANALYZE → DESIGN → DEVELOP
+  ↑                         ↓
+IMPROVE ← DEPLOY ← DEBUG ← TEST
 ```
 
+<br>
+
+`💡 Think` → `🏗️ Build` → `🧪 Validate` → `🚀 Ship` → `🔁 Improve`
+
 </div>
+
 
 ---
 
