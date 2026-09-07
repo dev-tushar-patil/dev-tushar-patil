@@ -551,17 +551,44 @@ BUILD IN PROGRESS...
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  ☕ Java runs on my machine.                │
-│                                              │
-│  🤖 So does my life.                        │
-│                                              │
-│  🚀 Sometimes production does not.         │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<table>
+<tr>
+
+<td align="center" width="30%">
+
+### ☕ Java
+
+**Java runs on my machine.**
+
+`Compiled ✓`  
+`Tested ✓`
+
+</td>
+
+<td align="center" width="30%">
+
+### 🤖 Life
+
+**So does my life.**
+
+`Debugging...`  
+`Still running...`
+
+</td>
+
+<td align="center" width="30%">
+
+### 🚀 Production
+
+**Sometimes production does not.**
+
+`Error 500 💀`  
+`Fixing...`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
