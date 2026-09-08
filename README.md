@@ -466,13 +466,6 @@ MISSION: BUILD SOMETHING NEW
 </div>
 ---
 
-# 🖥️ TERMINAL
-
-
-```
-
----
-
 # 📊 DEVELOPMENT TELEMETRY
 
 <div align="center">
