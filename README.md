@@ -468,34 +468,19 @@ MISSION: BUILD SOMETHING NEW
 
 # 🖥️ TERMINAL
 
-```bash
-$ whoami
+██████╗ ███████╗██╗   ██╗      ████████╗██╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗
+██╔══██╗██╔════╝██║   ██║      ╚══██╔══╝██║   ██║██╔════╝██║  ██║██╔══██╗██╔══██╗
+██║  ██║█████╗  ██║   ██║         ██║   ██║   ██║███████╗███████║███████║██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝         ██║   ██║   ██║╚════██║██╔══██║██╔══██║██╔══██╗
+██████╔╝███████╗ ╚████╔╝          ██║   ╚██████╔╝███████║██║  ██║██║  ██║██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝           ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-tushar@developer:~$ Full Stack Java Developer
-
-$ skills --show
-
-Java
-Spring Boot
-Microservices
-REST APIs
-React.js
-JavaScript
-MySQL
-MongoDB
-AWS
-
-$ mission --current
-
-Build scalable applications.
-Solve real-world problems.
-Keep learning.
-
-$ status
-
-SYSTEM ONLINE...
-CODE FLOWING...
-BUILD IN PROGRESS...
+██████╗  █████╗ ████████╗██╗██╗
+██╔══██╗██╔══██╗╚══██╔══╝██║██║
+██████╔╝███████║   ██║   ██║██║
+██╔═══╝ ██╔══██║   ██║   ██║██║
+██║     ██║  ██║   ██║   ██║███████╗
+╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝
 ```
 
 ---
